@@ -1,0 +1,28 @@
+                   Welcome to the 
+            Chemistry Maze Adventure!  
+ 
+         * * * * * * * * * * * * * * * * 
+         *         *         *         *
+         *    9    *    2    *    3    *
+         *         *         *         *
+         * * * * * * * * * * * * * * * *
+         *         *         *         *
+         *    8    *    1    *    4    *
+         *         *         *         *
+         * * * * * * * * * * * * * * * *
+         *         *         *         *
+         *   7     *    6    *    5    *
+         *         *         *         *
+         * * * * * * * * * * * * * * * *
+
+1.Starting Room: You are at the entrance of your chemistry laboratory.
+2.Standart Room: Various elements and ions are arranged on shelves.[Oxygen, Hydrogen, OH]
+3.Radiation Monster Room: Go to the nuclear energy facility before the radiation monster wakes up and defeat this monster by maintaining nuclear balance with the 'balance' command!
+4.Chemical Market: You can get the mask item from this market. Get this mask before you encounter the toxic gases monster in room 5!
+5.Toxic Gases Monster Room: The toxic gas monster releases deadly gases, never enter this room without a mask!
+6.Chemical Market: Get anti-corrosion armor from this market and get rid of your enemies with minimal damage!
+7.Acid Monster Room: The strong acid monster is waiting to destroy you, neutralize it with your OH ions in this room and don't forget your anti-corrosion armor!
+8.Standart Room: Various elements and ions are arranged on shelves. [Oxygen, Hydrogen, OH]
+9.Death Monster Room: If you defeat this monster of death, who protects the elixir of immortality at the cost of his life, you will save all humanity!
+
+
